@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactScreen displays ContactScreen component 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "yellow",
+      "borderColor": "orange",
+      "borderStyle": "solid",
+      "borderWidth": 5,
+      "flex": 0,
+      "justifyContent": "flex-start",
+      "width": undefined,
+    }
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+  >
+    Contact
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+  >
+    lorem ipsum
+  </Text>
+</View>
+`;
